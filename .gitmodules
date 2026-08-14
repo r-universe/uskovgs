@@ -5,6 +5,3 @@
 [submodule "ggsky"]
 	path = ggsky
 	url = https://github.com/uskovgs/ggsky
-[submodule "panstarrs"]
-	path = panstarrs
-	url = https://github.com/uskovgs/panstarrs
